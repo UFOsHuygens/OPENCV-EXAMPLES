@@ -1,1 +1,1 @@
-#### Alguns exemplos práticos do que é possível fazer com Opencv
+#### Alguns exemplos práticos de o que é possível fazer com Opencv
